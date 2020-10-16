@@ -1,3 +1,3 @@
 # Week-7-Assessment
 
-clone files into new folder locally and "yarn run dev"
+clone files into new folder locally and "yarn run dev" or download zip
